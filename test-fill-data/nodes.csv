@@ -1,0 +1,6 @@
+ID;name;domain;timezone;x_coord;y_coord
+COMB_1;Gasolinera_CEPSA_Puerto_de_Barcelona;Combustible;31T;429454,38;4575647,01
+QUIM_1;Quimidroga;Petroquimico;31T;429351,54;4575728,66
+GAS_1;Enagas;Gas;31T;429101,93;4575429.36
+TERM_1;Central_Ciclo_Combinado_Besos;Electrico;31T;435385,61;4585592,82
+FFCC_1;FFCC_Estacion de Francia;Transporte;31T;431968,37;4581791,3
